@@ -26,6 +26,8 @@ La navigation entre les deux écrans utilise un **Intent explicite** avec passag
 ## 🎬 Démonstration vidéo
 
 
+https://github.com/user-attachments/assets/901c5e51-c26d-480a-8c21-695e072f7536
+
 ---
 
 ## 🧠 Compétences mobilisées
@@ -40,6 +42,8 @@ La navigation entre les deux écrans utilise un **Intent explicite** avec passag
 ---
 
 ## 📁 Structure du projet
+
+
 
 ```
 Lab3/
